@@ -194,6 +194,6 @@ References
 
 [^4]: 2025 Will Be EPIC. Happy New Year. https://www.linkedin.com/posts/abdibrokhim_justmakethings-activity-7279970218712453120-xnWB | Quote your favorite phrase on Open Notes: https://openotes.vercel.app.
 
-[^5]: Today (3rd January) I dropped The Real Open Community $TROC token (e.g., to fund some of my projects. because i'm unemployed i have 0 income. i just make things; open source ai powered projects and tools for people.). It's a community token. Later on you can use it to buy some of my services, products, etc. Dexscreener: https://dexscreener.com/solana/9qc7vflmuub1nfjovwp9sryjruct56vnpuko8nlw7jbt.
+[^5]: Today (3rd January) I dropped The Real Open Community $TROC token (e.g., to fund some of my projects. because i'm unemployed i have 0 income. i just make things; open source ai powered projects and tools for people.). It's a community token. Later on you can use it to buy some of my services, products, etc. Dexscreener: https://dexscreener.com/solana/9qc7vflmuub1nfjovwp9sryjruct56vnpuko8nlw7jbt. LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_introducing-the-real-open-community-troc-activity-7281012949681422336-_Rlj?utm_source=share&utm_medium=member_desktop.
 
 [^6]: "I AM STARTUP": https://x.com/xopencommunity/status/1875096009384296823.
