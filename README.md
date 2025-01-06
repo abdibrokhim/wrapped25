@@ -13,6 +13,8 @@
 - My very first Congratulatory message on socials (e.g., LinkedIn). Open Notes. [^4]
 - I dropped The Real Open Community $TROC token. [^5]
 - People fkdp after going through my **WRAPPED 2024**. lol [^6]
+- I messed up $TROC token. [^7]
+- I was featured in Times Square. [^8]
 
 
 ---
@@ -197,3 +199,7 @@ References
 [^5]: Today (3rd January) I dropped The Real Open Community $TROC token (e.g., to fund some of my projects. because i'm unemployed i have 0 income. i just make things; open source ai powered projects and tools for people.). It's a community token. Later on you can use it to buy some of my services, products, etc. Dexscreener: https://dexscreener.com/solana/9qc7vflmuub1nfjovwp9sryjruct56vnpuko8nlw7jbt. LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_introducing-the-real-open-community-troc-activity-7281012949681422336-_Rlj?utm_source=share&utm_medium=member_desktop.
 
 [^6]: "I AM STARTUP": https://x.com/xopencommunity/status/1875096009384296823.
+
+[^7]: Because crypto bross constantly said; "you're holding too much supply, bro", "descrease your supply", "lock in", "put on vesting". I simple don't understand these all stuff. tbh, I was new in crypto world and meme tokens. Yep, before i did a project on web3 during hackathon [here](). But, anyway it's just one project back in May (i guess). So, i forgot most stuff. So... I got pressure. I panicked, I stressed. I don't understand what to do. I just sold some percent of tokens. Then, chart went all the way down. And i am dead, lol. Too many *noise. One guy helped me out. I bought them back. And lock them for 6 months. crazy. few posts: https://x.com/xopencommunity/status/1875727441718866067 | https://x.com/abdibrokhim/status/1876325414370746739.
+
+[^8]: As a mentioned in [my wrapped 2024](https://github.com/abdibrokhim/wrapped24) finally i was featured in Times Square. Here's a detailed post about it on LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-was-featured-in-times-square-last-week-activity-7282050047280640000-Kriv. I wrote my journey. (and plus tips/ tricks)
