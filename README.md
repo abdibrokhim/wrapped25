@@ -5,16 +5,17 @@
 > *looking for wrapped 2024? it's [here](https://github.com/abdibrokhim/wrapped24).*
 
 ### January
-- ~~Playboi Carti didn't dropped the album! lol~~
+- ~~Playboi Carti didn't drop the album! lol~~
 - I started PRAYing. [^0]
 - TL:DR. I wrote my very first wrapped: **WRAPPED 2024**. [^1]
 - I launched [justmakethings.cc](https://justmakethings.cc). [^2]
 - I launched a new project: **That Two PhDs** Podcast. [^3]
-- My very first Congratulatory message on socials (e.g., LinkedIn). Open Notes. [^4]
+- My very first Congratulatory message on socials (e.g., LinkedIn). Introducing Open Notes. [^4]
 - I dropped The Real Open Community $TROC token. [^5]
 - People fkdp after going through my **WRAPPED 2024**. lol [^6]
 - I messed up $TROC token. [^7]
 - I was featured in Times Square. [^8]
+- grep failed search for my code, so I just made my own !grep. [^9]
 
 
 ---
@@ -165,7 +166,8 @@
 ## People
 
 
-https://www.linkedin.com/in/jakhona-ikromova-0a04091a2
+- https://www.linkedin.com/in/jakhona-ikromova-0a04091a2
+- https://www.linkedin.com/in/maksimmuravev/
 
 
 ## That Two PhDs
@@ -200,6 +202,8 @@ References
 
 [^6]: "I AM STARTUP": https://x.com/xopencommunity/status/1875096009384296823.
 
-[^7]: Because crypto bross constantly said; "you're holding too much supply, bro", "descrease your supply", "lock in", "put on vesting". I simple don't understand these all stuff. tbh, I was new in crypto world and meme tokens. Yep, before i did a project on web3 during hackathon [here](). But, anyway it's just one project back in May (i guess). So, i forgot most stuff. So... I got pressure. I panicked, I stressed. I don't understand what to do. I just sold some percent of tokens. Then, chart went all the way down. And i am dead, lol. Too many *noise. One guy helped me out. I bought them back. And lock them for 6 months. crazy. few posts: https://x.com/xopencommunity/status/1875727441718866067 | https://x.com/abdibrokhim/status/1876325414370746739.
+[^7]: Because crypto bross constantly said; "you're holding too much supply, bro", "descrease your supply", "lock in", "put on vesting". I simple don't understand these all stuff. tbh, I was new in crypto world and meme tokens. Yep, before i did a project on web3 during hackathon [AlchemySDK + Web3 Hackathon](https://github.com/abdibrokhim/cw3d-AlchemySDK). But, anyway it's just one project back in May (i guess). So, i forgot most stuff. So... I got pressure. I panicked, I stressed. I don't understand what to do. I just sold some percent of tokens. Then, chart went all the way down. And i am dead, lol. Too many *noise. One guy helped me out. I bought them back. And lock them for 6 months. crazy. few posts: https://x.com/xopencommunity/status/1875727441718866067 | https://x.com/abdibrokhim/status/1876325414370746739.
 
-[^8]: As a mentioned in [my wrapped 2024](https://github.com/abdibrokhim/wrapped24) finally i was featured in Times Square. Here's a detailed post about it on LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-was-featured-in-times-square-last-week-activity-7282050047280640000-Kriv. I wrote my journey. (and plus tips/ tricks)
+[^8]: As a mentioned in [My Wrapped 2024](https://github.com/abdibrokhim/wrapped24) finally i was featured in Times Square. Here's a detailed post about it on LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-was-featured-in-times-square-last-week-activity-7282050047280640000-Kriv. I wrote my journey. (and plus tips/ tricks)
+
+[^9]: !grep is a search engine for code. It's a tool that allows you to search for code snippets in my repositories on GitHub. It's like grep, but not grep. lol. Post: https://www.linkedin.com/posts/abdibrokhim_justmakethings-activity-7283829957343023104-S15X | try https://notgrep.app .
