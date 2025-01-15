@@ -16,6 +16,7 @@
 - I messed up $TROC token. [^7]
 - I was featured in Times Square. [^8]
 - grep failed search for my code, so I just made my own !grep. [^9]
+- Welcome to the Open Source AI Hackathon. [^10]
 
 
 ---
@@ -207,3 +208,6 @@ References
 [^8]: As a mentioned in [My Wrapped 2024](https://github.com/abdibrokhim/wrapped24) finally i was featured in Times Square. Here's a detailed post about it on LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-was-featured-in-times-square-last-week-activity-7282050047280640000-Kriv. I wrote my journey. (and plus tips/ tricks)
 
 [^9]: !grep is a search engine for code. It's a tool that allows you to search for code snippets in my repositories on GitHub. It's like grep, but not grep. lol. Post: https://www.linkedin.com/posts/abdibrokhim_justmakethings-activity-7283829957343023104-S15X | try https://notgrep.app .
+
+[^10]: This is my first time organizing a hackathon instead of competing in one. LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_hackathon-hackathonwin-careergrowth-activity-7284626699827245056-7ZKv. YouTube video [RAW]: https://youtu.be/i7K4pz-kjmk?si=XnRjG7S6ys9zmbeH. Join! https://discord.gg/nUdcd9p8Ae (discord). SignUp for Hackathon: https://chillguy.devpost.com/.
+
