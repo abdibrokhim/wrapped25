@@ -17,6 +17,8 @@
 - I was featured in Times Square. [^8]
 - grep failed search for my code, so I just made my own !grep. [^9]
 - Welcome to the Open Source AI Hackathon. [^10]
+- i dropped blazingly fast url shortener ever... it's open source. [^11]
+- Top/ Senior Software/ ML/ Startup Engineers working with me. That's insane! [^12]
 
 
 ---
@@ -210,4 +212,8 @@ References
 [^9]: !grep is a search engine for code. It's a tool that allows you to search for code snippets in my repositories on GitHub. It's like grep, but not grep. lol. Post: https://www.linkedin.com/posts/abdibrokhim_justmakethings-activity-7283829957343023104-S15X | try https://notgrep.app .
 
 [^10]: This is my first time organizing a hackathon instead of competing in one. LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_hackathon-hackathonwin-careergrowth-activity-7284626699827245056-7ZKv. YouTube video [RAW]: https://youtu.be/i7K4pz-kjmk?si=XnRjG7S6ys9zmbeH. Join! https://discord.gg/nUdcd9p8Ae (discord). SignUp for Hackathon: https://chillguy.devpost.com/.
+
+[^11]: I'm participating in the hackathon. So i decided to build a blazingly fast url shortener. this is notlong - a new kind of url shortener. it's Open Source. Built With: Rust, Actix, Diesel, Shuttle, Neon, Inferno, and Typescript. Features: 1. default url shortener with random 6 digit string. Roadmap: 1. .... well okey, it's here: https://github.com/abdibrokhim/notlon... . Put a star ⭐️ : https://github.com/abdibrokhim/notlong. Live Demo: https://youtu.be/a4N13zJ46J0.
+
+[^12]: After I announced the Open Source AI Hackathon, I got a lot of messages over email and LinkedIn. I was so surprised to see that top/ senior software/ ml/ startup engineers, and etc. are really interested to be a judge. Few of them reached out me directly to help me out with organizing the hackathon ( e.g., even more properly setting up the hackathon page, discord community server, etc.). It's cool tbh, for someone ( fe: me ) who doesn't work anywhere, but "just make things" (https://imcook.in). I would like to thank Vladislav Shakhrai – ML Tech Lead at Snap Inc. with 6+ years of AI/ML experience, launching products reaching over 100M+ engagements. ( LinkedIn: https://www.linkedin.com/in/shakhrayv/ ) for deep dive into the hackathon and helping me our with everything. ( ps: I know you are struggling... to find an idea and build it. Then check this post - https://www.linkedin.com/posts/abdibrokhim_i-know-you-are-struggling-to-find-an-idea-activity-7285736275242864644-ehpY ).
 
