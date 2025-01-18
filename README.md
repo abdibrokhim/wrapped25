@@ -11,14 +11,15 @@
 - I launched [justmakethings.cc](https://justmakethings.cc). [^2]
 - I launched a new project: **That Two PhDs** Podcast. [^3]
 - My very first Congratulatory message on socials (e.g., LinkedIn). Introducing Open Notes. [^4]
-- I dropped The Real Open Community $TROC token. [^5]
+- I dropped The Real Open Community $TROC meme coin. [^5]
 - People fkdp after going through my **WRAPPED 2024**. lol [^6]
-- I messed up $TROC token. [^7]
+- I messed up $TROC meme coin. [^7]
 - I was featured in Times Square. [^8]
 - grep failed search for my code, so I just made my own !grep. [^9]
 - Welcome to the Open Source AI Hackathon. [^10]
 - i dropped blazingly fast url shortener ever... it's open source. [^11]
 - Top/ Senior Software/ ML/ Startup Engineers working with me. That's insane! [^12]
+- Trump launched meme coin $TRUMP. Go to sleep at nights!!! [^13]
 
 
 ---
@@ -217,3 +218,4 @@ References
 
 [^12]: After I announced the Open Source AI Hackathon, I got a lot of messages over email and LinkedIn. I was so surprised to see that top/ senior software/ ml/ startup engineers, and etc. are really interested to be a judge. Few of them reached out me directly to help me out with organizing the hackathon ( e.g., even more properly setting up the hackathon page, discord community server, etc.). It's cool tbh, for someone ( fe: me ) who doesn't work anywhere, but "just make things" (https://imcook.in). I would like to thank Vladislav Shakhrai – ML Tech Lead at Snap Inc. with 6+ years of AI/ML experience, launching products reaching over 100M+ engagements. ( LinkedIn: https://www.linkedin.com/in/shakhrayv/ ) for deep dive into the hackathon and helping me our with everything. ( ps: I know you are struggling... to find an idea and build it. Then check this post - https://www.linkedin.com/posts/abdibrokhim_i-know-you-are-struggling-to-find-an-idea-activity-7285736275242864644-ehpY ).
 
+[^13]: tbh. it's totally insane that US President Trump just launched meme coin $TRUMP. I was like: "what the heck is going on?". My bad i knew it so, so late. And i missed the opportunity to buy some. i went to sleep in the morning around 7am. unfortunately they launched 7:44am. that hurts! nooooooo. it's crazy. totally crazy. shitt. in 16h 39m after launch it worth $30.66B in Mkt Cap. it's..... they just killed meme coin market. twit: https://x.com/realDonaldTrump/status/1880446012168249386 .
