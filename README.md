@@ -21,6 +21,8 @@
 - Top/ Senior Software/ ML/ Startup Engineers working with me. That's insane! [^12]
 - Trump launched meme coin $TRUMP. Go to sleep at nights!!! [^13]
 - "Hack the Future: AI & Open Source Hackathon” has officially begun!! [^14]
+- Here's What We Achieved! All the insights from recent... "Hack the Future: AI & Open Source Hackathon".[^15]
+
 
 ---
 
@@ -221,3 +223,16 @@ References
 [^13]: tbh. it's totally insane that US President Trump just launched meme coin $TRUMP. I was like: "what the heck is going on?". My bad i knew it so, so late. And i missed the opportunity to buy some. i went to sleep in the morning around 7am. unfortunately they launched 7:44am. that hurts! nooooooo. it's crazy. totally crazy. shitt. in 16h 39m after launch it worth $30.66B in Mkt Cap. it's..... they just killed meme coin market. twit: https://x.com/realDonaldTrump/status/1880446012168249386 .
 
 [^14]: We officially kicked off the hackathon. that's cool. over 283+ registered participants. over 33+ applied judges. (we took only 12). over $4,5K in monetary prizes. LinkedIn post: Kick Off Stream. Wrapped Up…: https://www.linkedin.com/feed/update/urn:li:activity:7288610740263919616. 
+
+[^15]: 307 registered hackers from Africa, Europe, Oceania, Asia, North & South America
+ 💡 73 groundbreaking projects submitted
+ 🏆 $4,515 in prizes, including crypto coins
+ 🧑‍⚖️ 13 expert judges selected from 33 applicants
+ 🔥 3 YC-backed founders joined as mentors/ judges
+ 📚 1 ML Engineering Researcher with multiple publications
+ 🎓 3 live workshops to boost your skills
+ 📣 0 marketing – just pure passion via LinkedIn & Twitter
+ 💸 1 main sponsor AI/ML API - Startup that raised $3M. 
+ ✨ First-time organizers bringing you end-to-end tutorials in various programming languages, all crafted by our founder
+ 🤝 Small but mighty organizing team. And pretty much!! Check out linkedin post here https://www.linkedin.com/posts/abdibrokhim_heres-what-we-achieved-all-the-insights-activity-7289635546463629312-CHrk.
+
