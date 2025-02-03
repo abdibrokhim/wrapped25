@@ -22,6 +22,9 @@
 - Trump launched meme coin $TRUMP. Go to sleep at nights!!! [^13]
 - "Hack the Future: AI & Open Source Hackathon” has officially begun!! [^14]
 - Here's What We Achieved! All the insights from recent... "Hack the Future: AI & Open Source Hackathon".[^15]
+- Hack the Future: AI & Open Source Hackathon Winner Announcemen. [^16]
+- Trip to Chimyon. [^17]
+
 
 
 ---
@@ -171,9 +174,9 @@
 
 ## People
 
-
 - https://www.linkedin.com/in/jakhona-ikromova-0a04091a2
 - https://www.linkedin.com/in/maksimmuravev/
+- https://www.linkedin.com/in/shakhrayv/
 
 
 ## That Two PhDs
@@ -236,3 +239,17 @@ References
  ✨ First-time organizers bringing you end-to-end tutorials in various programming languages, all crafted by our founder
  🤝 Small but mighty organizing team. And pretty much!! Check out linkedin post here https://www.linkedin.com/posts/abdibrokhim_heres-what-we-achieved-all-the-insights-activity-7289635546463629312-CHrk.
 
+[^16]: Finally... Winner Announcemen! It was so cool to organize a hackathon. Great experience. same energy or even more than participating in the hackathon. i love it tbh. i beleive we will make another soon. post: https://www.linkedin.com/posts/opencommunity_hack-the-future-ai-open-source-hackathon-activity-7292181233990541312-SueX.
+it's challanging, lol. just sent all the winners and participants their certificates. at least 1 certificate for completion. and at most 3 certificates for completion, + best app winners, + podium winners. it's cool!!
+
+[^17]: Last weekend, on 3rd February i went to Chimyon. 
+I have never been in such a places before tbh. 
+I had no idea what how it looks like. lol. 
+I went there with my mates from Huawei Seeds for the future program. And also called my ~~gf~~ friend.
+We went there by van. It was so cool,fun, and super interesting.
+Best moments:
+- if you are planning to go there. go early morning. and try first to play with balloons. it's super crazy!!
+- i tried skiing. it lookd kinda dangerous. cause you may fall down and break your leg or whatever. but it looks kinda COOL also. LMAO. I fall down a lot and a lot. But it was super fun. it's snowyyyy. at the end i really enjoyed it. I love it. my fav sport skiing now! LMFAO.
+- lunch time was cringe. ahhahahha.
+I won't forget this trip. just 12 hours. but so so so much fun. many things happened!!
+post: https://www.instagram.com/p/DFlGEYCKyoq/.
