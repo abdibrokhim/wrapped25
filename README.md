@@ -24,6 +24,7 @@
 - Here's What We Achieved! All the insights from recent... "Hack the Future: AI & Open Source Hackathon".[^15]
 - Hack the Future: AI & Open Source Hackathon Winner Announcemen. [^16]
 - Trip to Chimyon. [^17]
+- I applied to Y Combinator for the 3rd time. But this time just for fun! [^18]
 
 
 
@@ -219,25 +220,25 @@ References
 
 [^10]: This is my first time organizing a hackathon instead of competing in one. LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_hackathon-hackathonwin-careergrowth-activity-7284626699827245056-7ZKv. YouTube video [RAW]: https://youtu.be/i7K4pz-kjmk?si=XnRjG7S6ys9zmbeH. Join! https://discord.gg/nUdcd9p8Ae (discord). SignUp for Hackathon: https://chillguy.devpost.com/.
 
-[^11]: I'm participating in the hackathon. So i decided to build a blazingly fast url shortener. this is notlong - a new kind of url shortener. it's Open Source. Built With: Rust, Actix, Diesel, Shuttle, Neon, Inferno, and Typescript. Features: 1. default url shortener with random 6 digit string. Roadmap: 1. .... well okey, it's here: https://github.com/abdibrokhim/notlon... . Put a star ⭐️ : https://github.com/abdibrokhim/notlong. Live Demo: https://youtu.be/a4N13zJ46J0.
+[^11]: I'm participating in the hackathon. So i decided to build a blazingly fast url shortener. this is notlong - a new kind of url shortener. it's Open Source. Built With: Rust, Actix, Diesel, Shuttle, Neon, Inferno, and Typescript. Features: 1. default url shortener with random 6 digit string. Roadmap: 1. .... well okey, it's here: https://github.com/abdibrokhim/notlon... . Put a star ⭐️ : https://github.com/abdibrokhim/notlong. Live Demo: https://youtu.be/ahZV6aAdnVI?si=V04EPf2fFxIkChBy. How to use it: https://youtu.be/laS4aLrdjDE?si=lGajeZM4Yw0r4u9Z.
 
-[^12]: After I announced the Open Source AI Hackathon, I got a lot of messages over email and LinkedIn. I was so surprised to see that top/ senior software/ ml/ startup engineers, and etc. are really interested to be a judge. Few of them reached out me directly to help me out with organizing the hackathon ( e.g., even more properly setting up the hackathon page, discord community server, etc.). It's cool tbh, for someone ( fe: me ) who doesn't work anywhere, but "just make things" (https://imcook.in). I would like to thank Vladislav Shakhrai – ML Tech Lead at Snap Inc. with 6+ years of AI/ML experience, launching products reaching over 100M+ engagements. ( LinkedIn: https://www.linkedin.com/in/shakhrayv/ ) for deep dive into the hackathon and helping me our with everything. ( ps: I know you are struggling... to find an idea and build it. Then check this post - https://www.linkedin.com/posts/abdibrokhim_i-know-you-are-struggling-to-find-an-idea-activity-7285736275242864644-ehpY ).
+[^12]: After I announced the Open Source AI Hackathon, I got a lot of messages over email and LinkedIn. I was so surprised to see that top/ senior software/ ml/ startup engineers, and etc. are really interested to be a judge. Few of them reached out me directly to help me out with organizing the hackathon ( e.g., even more properly setting up the hackathon page, discord community server, etc.). It's cool tbh, for someone ( fe: me ) who doesn't work anywhere, but "just make things" (https://imcook.in). I would like to thank Vladislav Shakhrai - ML Tech Lead at Snap Inc. with 6+ years of AI/ML experience, launching products reaching over 100M+ engagements. ( LinkedIn: https://www.linkedin.com/in/shakhrayv/ ) for deep dive into the hackathon and helping me our with everything. ( ps: I know you are struggling... to find an idea and build it. Then check this post - https://www.linkedin.com/posts/abdibrokhim_i-know-you-are-struggling-to-find-an-idea-activity-7285736275242864644-ehpY ).
 
 [^13]: tbh. it's totally insane that US President Trump just launched meme coin $TRUMP. I was like: "what the heck is going on?". My bad i knew it so, so late. And i missed the opportunity to buy some. i went to sleep in the morning around 7am. unfortunately they launched 7:44am. that hurts! nooooooo. it's crazy. totally crazy. shitt. in 16h 39m after launch it worth $30.66B in Mkt Cap. it's..... they just killed meme coin market. twit: https://x.com/realDonaldTrump/status/1880446012168249386 .
 
 [^14]: We officially kicked off the hackathon. that's cool. over 283+ registered participants. over 33+ applied judges. (we took only 12). over $4,5K in monetary prizes. LinkedIn post: Kick Off Stream. Wrapped Up…: https://www.linkedin.com/feed/update/urn:li:activity:7288610740263919616. 
 
 [^15]: 307 registered hackers from Africa, Europe, Oceania, Asia, North & South America
- 💡 73 groundbreaking projects submitted
- 🏆 $4,515 in prizes, including crypto coins
- 🧑‍⚖️ 13 expert judges selected from 33 applicants
- 🔥 3 YC-backed founders joined as mentors/ judges
- 📚 1 ML Engineering Researcher with multiple publications
- 🎓 3 live workshops to boost your skills
- 📣 0 marketing – just pure passion via LinkedIn & Twitter
- 💸 1 main sponsor AI/ML API - Startup that raised $3M. 
- ✨ First-time organizers bringing you end-to-end tutorials in various programming languages, all crafted by our founder
- 🤝 Small but mighty organizing team. And pretty much!! Check out linkedin post here https://www.linkedin.com/posts/abdibrokhim_heres-what-we-achieved-all-the-insights-activity-7289635546463629312-CHrk.
+- 73 groundbreaking projects submitted
+- $4,515 in prizes, including crypto coins
+- 13 expert judges selected from 33 applicants
+- 3 YC-backed founders joined as mentors/ judges
+- 1 ML Engineering Researcher with multiple publications
+- 3 live workshops to boost your skills
+- 0 marketing - just pure passion via LinkedIn & Twitter
+- 1 main sponsor AI/ML API - Startup that raised $3M. 
+- First-time organizers bringing you end-to-end tutorials in various programming languages, all crafted by our founder
+- Small but mighty organizing team. And pretty much!! Check out linkedin post here https://www.linkedin.com/posts/abdibrokhim_heres-what-we-achieved-all-the-insights-activity-7289635546463629312-CHrk.
 
 [^16]: Finally... Winner Announcemen! It was so cool to organize a hackathon. Great experience. same energy or even more than participating in the hackathon. i love it tbh. i beleive we will make another soon. post: https://www.linkedin.com/posts/opencommunity_hack-the-future-ai-open-source-hackathon-activity-7292181233990541312-SueX.
 it's challanging, lol. just sent all the winners and participants their certificates. at least 1 certificate for completion. and at most 3 certificates for completion, + best app winners, + podium winners. it's cool!!
@@ -253,3 +254,5 @@ Best moments:
 - lunch time was cringe. ahhahahha.
 I won't forget this trip. just 12 hours. but so so so much fun. many things happened!!
 post: https://www.instagram.com/p/DFlGEYCKyoq/.
+
+[^18]: I Applied to Y Combinator Again. 3rd time. YC Founders Intro. Watch on YouTube. https://youtu.be/5gBU_MK5fqE. With Startup Open Community.
