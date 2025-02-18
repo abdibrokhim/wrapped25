@@ -25,6 +25,7 @@
 - Hack the Future: AI & Open Source Hackathon Winner Announcemen. [^16]
 - Trip to Chimyon. [^17]
 - I applied to Y Combinator for the 3rd time. But this time just for fun! [^18]
+- I launched notlink - open source blazingly fast url shortener ever. [^19]
 
 
 
@@ -256,3 +257,14 @@ I won't forget this trip. just 12 hours. but so so so much fun. many things happ
 post: https://www.instagram.com/p/DFlGEYCKyoq/.
 
 [^18]: I Applied to Y Combinator Again. 3rd time. YC Founders Intro. Watch on YouTube. https://youtu.be/5gBU_MK5fqE. With Startup Open Community.
+
+[^19]: notlink - a blazingly fast, open-source URL shortener built with Rust. Simple, secure, and customizable, it can be self-hosted on your server. Powered by Rust, Actix, Diesel, Shuttle, Neon, NextJS, and TypeScript. Free to use and designed for speed.
+Launch linkedin post: https://www.linkedin.com/feed/update/urn:li:activity:7297534784799477761/
+Website: https://notl.ink 
+Notlink backend: https://github.com/abdibrokhim/notlink
+Notlink frontend: https://github.com/abdibrokhim/notlink-ui 
+Tutorial (video on YouTube): https://youtu.be/Mhz_eVH3XnQ
+Tutorial (LinkedIn post): https://www.linkedin.com/posts/opencommunity_just-uploaded-my-first-ever-rust-video-tutorial-activity-7296255009766170624-VhAt
+How to use notlink (video on YouTube): https://youtu.be/ahZV6aAdnVI 
+How to use notlink (LinkedIn post): https://www.linkedin.com/posts/abdibrokhim_finally-deployed-i-built-blazingly-fast-activity-7293163726155751425-21n3 
+Community on Discord: https://discord.gg/nUdcd9p8Ae 
