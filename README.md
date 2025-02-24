@@ -21,20 +21,15 @@
 - Top/ Senior Software/ ML/ Startup Engineers working with me. That's insane! [^12]
 - Trump launched meme coin $TRUMP. Go to sleep at nights!!! [^13]
 - "Hack the Future: AI & Open Source Hackathon” has officially begun!! [^14]
+
+---
+
+### February
 - Here's What We Achieved! All the insights from recent... "Hack the Future: AI & Open Source Hackathon".[^15]
 - Hack the Future: AI & Open Source Hackathon Winner Announcemen. [^16]
 - Trip to Chimyon. [^17]
 - I applied to Y Combinator for the 3rd time. But this time just for fun! [^18]
 - I launched notlink - open source blazingly fast url shortener ever. [^19]
-
-
-
----
-
-### February
-
-
-> *P.S.: *
 
 ---
 
