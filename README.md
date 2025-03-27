@@ -34,9 +34,11 @@
 ---
 
 ### March
-
-
-> *P.S.: *
+- yaps[dot]chat got viral on Hacker News. [^20]
+- I launched yaps[dot]chat on Product Hunt. [^21]
+- I wrote new tutorial but this one is not similar to my previous ones. [^22]
+- Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?! [^23]
+- yaps[dot]chat (aka yaps.chat) just got a lot of updates 🥳. [^24]
 
 ---
 
@@ -263,3 +265,28 @@ Tutorial (LinkedIn post): https://www.linkedin.com/posts/opencommunity_just-uplo
 How to use notlink (video on YouTube): https://youtu.be/ahZV6aAdnVI 
 How to use notlink (LinkedIn post): https://www.linkedin.com/posts/abdibrokhim_finally-deployed-i-built-blazingly-fast-activity-7293163726155751425-21n3 
 Community on Discord: https://discord.gg/nUdcd9p8Ae 
+
+[^20]: Finally my stuff got viral on Hacker News. https://news.ycombinator.com/item?id=43318094.
+Follow us on X: https://x.com/yapsdotchat.
+
+[^21]: 
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yapschat-dont-be-like-bezos-own-your-activity-7307783414517002240-fQVL.
+
+[^22]: Viral meme topic is now real. Twitter ReplyGuy tutorial. Built with AI Agents.
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yo-wanna-blow-up-on-twitter-without-grindin-activity-7310358499677364224-W3kj.
+
+[^23]: Honestly, I can't stop doomscrolling through my X feed (formerly Twitter). 
+It's flooded with Studio Ghibli-style art everywhere... 
+Read detailed article on Medium: https://medium.com/@abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-f2fd41619ecf or 
+Dev: https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5. 
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yo-wassap-openai-4o-just-dropped-the-bag-activity-7310647860100763648-XQUr.
+Instagram post: https://www.instagram.com/p/DHtZ33LK5FW/ | https://www.instagram.com/p/DHtYM1ZqStu/ .
+
+
+[^24]: . 
+It got viral on Hacker News: <>
+Available on Telegram: https://t.me/yapsworld_bot. 
+Linkedin post: https://www.linkedin.com/posts/abdibrokhim_yapsdotchat-new-updates-activity-7311019820051800066-kVLa.
+
+
+https://www.linkedin.com/posts/bekzod-usmanovv_my-friend-ibrohim-abdivokhidov-yapsgg-activity-7309802541137940480-Cger?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8
