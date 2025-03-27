@@ -30,15 +30,19 @@
 - Trip to Chimyon. [^17]
 - I applied to Y Combinator for the 3rd time. But this time just for fun! [^18]
 - I launched notlink - open source blazingly fast url shortener ever. [^19]
+- Seems my UI/UX is bad. HUH... totally unfair. JUDGES!! [^20]
 
 ---
 
 ### March
-- yaps[dot]chat got viral on Hacker News. [^20]
-- I launched yaps[dot]chat on Product Hunt. [^21]
-- I wrote new tutorial but this one is not similar to my previous ones. [^22]
-- Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?! [^23]
-- yaps[dot]chat (aka yaps.chat) just got a lot of updates 🥳. [^24]
+- I almost got hacked. [^21]
+- Ramadan Kareem. [^22]
+- yaps[dot]chat got viral on Hacker News. [^23]
+- I launched yaps[dot]chat on Product Hunt. [^24]
+- I wrote new tutorial but this one is not similar to my previous ones. [^25]
+- Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?! [^26]
+- yaps[dot]chat (aka yaps.chat) just got a lot of updates 🥳. [^27]
+- I applied Master's Degree in Cognitive Science at PSL University. [^28]
 
 ---
 
@@ -266,27 +270,35 @@ How to use notlink (video on YouTube): https://youtu.be/ahZV6aAdnVI
 How to use notlink (LinkedIn post): https://www.linkedin.com/posts/abdibrokhim_finally-deployed-i-built-blazingly-fast-activity-7293163726155751425-21n3 
 Community on Discord: https://discord.gg/nUdcd9p8Ae 
 
-[^20]: Finally my stuff got viral on Hacker News. https://news.ycombinator.com/item?id=43318094.
-Follow us on X: https://x.com/yapsdotchat.
+[^20]: [notl.ink](https://notl.ink) got 2nd place. 
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_notlink-got-2nd-place-was-it-fair-lemme-activity-7299848051127427072-65UU.
 
-[^21]: 
+[^21] Here's exactly what happened to me. All of the hacking tricks of Web3 developers; eval().: 
+LinkedIn article: https://www.linkedin.com/posts/abdibrokhim_heres-exactly-what-happened-to-me-all-of-activity-7300890237000466432-IiVZ.
+
+[^22]: Ramadan Kareem. Post: https://www.linkedin.com/posts/abdibrokhim_ramadan-mubarak-may-this-sacred-month-activity-7301608805547597824-s4ja.
+
+[^23]: Finally my stuff got viral on Hacker News. https://news.ycombinator.com/item?id=43318094.
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_wow-how-to-name-this-effect-finally-after-activity-7304882538492157952-T_5e.
+Follow us on X: https://x.com/yapsdotchat. 
 LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yapschat-dont-be-like-bezos-own-your-activity-7307783414517002240-fQVL.
 
-[^22]: Viral meme topic is now real. Twitter ReplyGuy tutorial. Built with AI Agents.
+[^24]: yaps[dot]chat is a new kind of messenger. You can easily chat, send files and images to anyone without middle man. all the messages and shared information end-to-end encrypted and never stored on the server.
+Product Hunt launch: https://www.producthunt.com/posts/yaps-dot-chat.
+LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yooooo-yapschatis-here-to-shake-up-activity-7307666439472095232-DA73.
+
+[^25]: Viral meme topic is now real. Twitter ReplyGuy tutorial. Built with AI Agents.
 LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yo-wanna-blow-up-on-twitter-without-grindin-activity-7310358499677364224-W3kj.
 
-[^23]: Honestly, I can't stop doomscrolling through my X feed (formerly Twitter). 
+[^26]: Honestly, I can't stop doomscrolling through my X feed (formerly Twitter). 
 It's flooded with Studio Ghibli-style art everywhere... 
 Read detailed article on Medium: https://medium.com/@abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-f2fd41619ecf or 
 Dev: https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5. 
 LinkedIn post: https://www.linkedin.com/posts/abdibrokhim_yo-wassap-openai-4o-just-dropped-the-bag-activity-7310647860100763648-XQUr.
 Instagram post: https://www.instagram.com/p/DHtZ33LK5FW/ | https://www.instagram.com/p/DHtYM1ZqStu/ .
 
-
-[^24]: . 
-It got viral on Hacker News: <>
-Available on Telegram: https://t.me/yapsworld_bot. 
+[^27]: I redesigned yaps[dot]chat. Available on Telegram: https://t.me/yapsworld_bot. 
 Linkedin post: https://www.linkedin.com/posts/abdibrokhim_yapsdotchat-new-updates-activity-7311019820051800066-kVLa.
+As always UI/UX of my apps are the best.: https://www.linkedin.com/posts/bekzod-usmanovv_my-friend-ibrohim-abdivokhidov-yapsgg-activity-7309802541137940480-Cger.
 
-
-https://www.linkedin.com/posts/bekzod-usmanovv_my-friend-ibrohim-abdivokhidov-yapsgg-activity-7309802541137940480-Cger?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8
+[^28]: I applied Master's Degree in Cognitive Science at PSL University. https://master-cognitive-science.ens.psl.eu/en/application/apply-masters-program-17283.
