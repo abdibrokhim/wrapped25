@@ -47,23 +47,31 @@
 ---
 
 ### April
-
-
-> *P.S.: *
+- i launched Stateless. [^29]
+- i built .env (aka take trash) an alternative to touch grass. [^30]
+- i got rejected from Master's Degree in Cognitive Science at PSL University. [^31]
+- Introducing Zarin. [^32]
+- Introducing Douaa - the first open-source AI agent for OLX. [^33]
+- We got rejected from Navruz Hackathon 2025 🌱. [^34]
 
 ---
 
 ### May
-
-
-> *P.S.: *
+- Introducing The AI Agents For Personal Growth. [^35]
+- Generate images and edit them on the go. [^36]
+- I built Trallallero Trallalla – “Italian Brainrot AI People”. [^37]
+- ANORA - Intelligent Canvas for Infinity Creativity. [^38]
+- ANORA, all the important updates. [^39]
 
 ---
 
 ### June
-
-
-> *P.S.: *
+- [TUTORIAL] How To Build End-To-End AI Voice Agentic App Using AI/ML API and OpenAI Realtime API. [^40]
+- [TUTORIAL] How I Built Italian Brainrot AI Animals Alternative using AI/ML API. [^41]
+- I Built Hedra, FLORA, flowith, Google Flow Alternative, but 10x better, refreshed, and clean UI/UX. [^42]
+- ANORA's largest update yet. [^43]
+- ANORA update. [^44]
+- ANORA: Sushi Fam Journey. (super short story). [^45]
 
 ---
 
@@ -302,3 +310,91 @@ Linkedin post: https://www.linkedin.com/posts/abdibrokhim_yapsdotchat-new-update
 As always UI/UX of my apps are the best.: https://www.linkedin.com/posts/bekzod-usmanovv_my-friend-ibrohim-abdivokhidov-yapsgg-activity-7309802541137940480-Cger.
 
 [^28]: I applied Master's Degree in Cognitive Science at PSL University. https://master-cognitive-science.ens.psl.eu/en/application/apply-masters-program-17283.
+
+[^29]: Stateless is a writing app that will delete everything if you stop typing.
+Terrifying, risky, and strangely effective.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_stateless-is-a-writing-app-that-will-delete-activity-7311738439937236993-VApN.
+
+[^30]: .env (aka take trash) touch grass alternative. Decrease your screen time... take trash. Replace digital addiction with environmental action.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-built-an-alternative-to-touch-grass-but-activity-7312821095605190656-sWWM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Github: https://github.com/abdibrokhim/plant-tree.
+
+[^31]: recently applied to PSL Research University for a Master's degree in Cognitive Science. 
+this is what i got just now... huh, they literally rejected my application. 
+i prepared solo. (as always, i did it myself). 
+from crafting pretty high-quality letters/essays to letters of recommendation
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_recently-applied-to-psl-research-university-activity-7315052905277865985-jHAY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^31]: Zarin is the first open-source AI platform that provides access to over 200+ popular and latest AI multi-models. 
+Now you can literally generate images, videos, audios, codes, write academic papers, cool essays, and more with just one platform. 
+Forget about the hassle of switching between different AI platforms. 
+Try Zarin now! (it just works).
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_zarin-is-a-free-open-source-ai-chat-app-activity-7315494613924888576-GTz7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^32]: LinkedIn: https://www.linkedin.com/posts/abdibrokhim_introducing-douaa-the-first-open-source-activity-7320038618675265538-GpDF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^33]: Douaa is the first open-source AI agent for OLX. 
+Built with the world’s dopest tools: 
+- A2A (Agent2Agent) protocol 
+- browser‑use to make websites AI‑friendly 
+- FastAPI for API + WebSocket server 
+- AI/ML API integrating 200+ AI models
+
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_introducing-douaa-the-first-open-source-activity-7320038618675265538-GpDF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8
+
+[^34]: We got rejected from Navruz Hackathon 2025 🌱.  
+because we built hyper Viral app. here's how...
+linkedin: https://www.linkedin.com/posts/abdibrokhim_we-got-rejected-from-navruz-hackathon-2025-activity-7320439901378822144-ntrX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^35]: Introducing The AI Agents For Personal Growth.
+hey, i’m Wei - “helping you form good habits...”.
+🌱 Wei is your conversational AI agent that makes habit-building effortless through natural dialogue. Speak with Wei, earn points for consistency, and transform daily routines into rewarding experiences—all with a playful personality that keeps you motivated on your wellness journey.
+
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_introducing-the-ai-agents-for-personal-growth-activity-7322698086294650880-84iA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^36]: Mei is open-source online webgl photo editor with effects, filters, cropping, and more!
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_generate-images-and-edit-them-on-the-go-activity-7323048732365602816-d-uA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^37]: The idea’s simple: upload two (or more) photos and get one mash-up image in the viral “Italian Brainrot AI Animals” style - but with people instead. ahahah.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-just-built-something-cool-with-openais-activity-7323411803940483072-Sx0D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^38]: ANORA (prev. Anora - An infinite canvas for your infinite creativity).
+you can create things that akshually cool 😜
+use cases?
+- create ads.
+- transform images.
+- generate images.
+...huhh, just INFINITE 🐠.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_anora-an-infinite-canvas-for-your-infinite-activity-7323687103005884416-hJ75?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^39]: ANORA; ALL IMPORTANT UPDATES.
+Open source FLORA alternative: https://www.linkedin.com/posts/abdibrokhim_an-infinite-canvas-for-infinite-creativity-activity-7325195843072888832-53ju?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Refreshed UI/UX: https://www.linkedin.com/posts/abdibrokhim_anora-an-infinite-canvas-for-infinite-creativity-activity-7325547654157946881-1Y7V?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Runway Gen-4 and Kling 2.0 Master are now in ANORA: https://www.linkedin.com/posts/abdibrokhim_runway-gen-4-and-kling-20-master-are-now-activity-7326323334739062784-_EHk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Anora just got refreshed UI/UX and clean design: https://www.linkedin.com/posts/abdibrokhim_anora-just-got-refreshed-uiux-and-clean-activity-7326669784396312576-nXPT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^40]: [TUTORIAL]: How To Build End-To-End AI Voice Agentic App Using AI/ML API and OpenAI Realtime API.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_how-to-build-end-to-end-ai-voice-agentic-activity-7328395030933516289-Pg-N?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Medium: https://medium.com/@abdibrokhim/how-to-build-end-to-end-ai-voice-agentic-app-using-ai-ml-api-and-openai-realtime-api-1b88597795c4.
+
+[^41]: [TUTORIAL] How I Built Italian Brainrot AI Animals Alternative using AI/ML API.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_how-i-built-italian-brainrot-ai-animals-alternative-activity-7330211269989347330-tI1G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^42]: I Built Hedra, FLORA, flowith, Google Flow Alternative, but 10x better, refreshed, and clean UI/UX.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-built-hedra-flora-flowith-google-flow-activity-7331342015193858050-PZOZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^43]: ANORA's largest update yet.
+LinkedIn: https://www.linkedin.com/posts/abdibrokhim_anoras-largest-update-yet-activity-7332711328467333122-npRS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+Watch on YouTube: https://www.linkedin.com/posts/abdibrokhim_anoras-largest-update-yet-activity-7332711328467333122-npRS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^44]: 
+ANORA update: https://www.linkedin.com/posts/abdibrokhim_hi-i-just-wanted-to-share-few-interesting-activity-7334486696756981760-QvUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^45]: Sushi Fam Journey. (super short story).
+Then I connected image and text (e.g., references) to the Video block to generate Video.
+
+Recraft AI -> ChatGPT 4.1 Nano -> Kling AI 2.0 Master.
+
+Boom!
+I got cute and funny video. 😍
+https://www.linkedin.com/posts/abdibrokhim_sushi-fam-journey-super-short-story-scenario-activity-7335678442501201920-Uqdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
