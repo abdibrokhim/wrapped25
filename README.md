@@ -388,8 +388,7 @@ LinkedIn: https://www.linkedin.com/posts/abdibrokhim_i-built-hedra-flora-flowith
 LinkedIn: https://www.linkedin.com/posts/abdibrokhim_anoras-largest-update-yet-activity-7332711328467333122-npRS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
 Watch on YouTube: https://www.linkedin.com/posts/abdibrokhim_anoras-largest-update-yet-activity-7332711328467333122-npRS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
 
-[^44]: 
-ANORA update: https://www.linkedin.com/posts/abdibrokhim_hi-i-just-wanted-to-share-few-interesting-activity-7334486696756981760-QvUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+[^44]: ANORA update: https://www.linkedin.com/posts/abdibrokhim_hi-i-just-wanted-to-share-few-interesting-activity-7334486696756981760-QvUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
 
 [^45]: Sushi Fam Journey. (super short story).
 Then I connected image and text (e.g., references) to the Video block to generate Video.
@@ -400,8 +399,7 @@ Boom!
 I got cute and funny video. 😍
 https://www.linkedin.com/posts/abdibrokhim_sushi-fam-journey-super-short-story-scenario-activity-7335678442501201920-Uqdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
 
-[^46]:
-yep, but i'm waiting for following:
+[^46]: yep, but i'm waiting for following:
 few things:
 - waiting results from hackathon. i need to win 1st place.
 - waiting for results from HPAIR conf in Japan. 
