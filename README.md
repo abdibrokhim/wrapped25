@@ -72,6 +72,7 @@
 - ANORA's largest update yet. [^43]
 - ANORA update. [^44]
 - ANORA: Sushi Fam Journey. (super short story). [^45]
+- i'm lost. feeling empty. wierd. i dunno whats happening. [^46]
 
 ---
 
@@ -398,3 +399,15 @@ Recraft AI -> ChatGPT 4.1 Nano -> Kling AI 2.0 Master.
 Boom!
 I got cute and funny video. 😍
 https://www.linkedin.com/posts/abdibrokhim_sushi-fam-journey-super-short-story-scenario-activity-7335678442501201920-Uqdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2h8MBtHotRGgb_ePOpWusMY9VKCqELw8.
+
+[^46]:
+yep, but i'm waiting for following:
+few things:
+- waiting results from hackathon. i need to win 1st place.
+- waiting for results from HPAIR conf in Japan. 
+- maybe i will be in China from 30June to 30July. AI summer school.
+- maybe i will continue Masters in Germany. results on July.
+- maybe i should hold ANORA (my last startup) and make it real in market.
+- somehow win worlds largest hackathon by bolt.new.
+- registered for few lablab.ai hackathons, june .july.
+- im not sure, maybe i can truly *replace Figma, Flora, and many other tools with my startup ANORA. with few cracked devs and shipping everyday constantly.
